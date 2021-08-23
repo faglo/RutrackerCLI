@@ -2,11 +2,12 @@
 
 ## Простой CLI интерфейс для rutracker.org
 
-###Использование
+### Использование
+
 `pip3 install -r requirements.txt`
 
 `python3 main.py`
 
-###TODO:
+TODO:
 - Добавить поддержку прокси
 - Задокументировать код
